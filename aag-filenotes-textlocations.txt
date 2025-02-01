@@ -1,0 +1,412 @@
+CDmage 1.01.5 files list of the image "After Armageddon Gaiden - Majuu Toushouden Eclipse (Japan).cue"
+
+Folder: \ (ISO9660)
+
+Name        |    LBA|      Size|Type                   |         Date and time|Timezone|Flags
+CPY.TXT     |     22|       198|Text Document          | 10/14/1994 9:14:55 AM|    0:00|F
+ABS.TXT     |     23|     2,091|Text Document          | 10/14/1994 9:14:55 AM|    0:00|F
+BIB.TXT     |     25|       202|Text Document          | 10/14/1994 9:14:55 AM|    0:00|F
+MMMMDATA.BIN|     26|   319,496|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+ANCIENT.GRP |    183|   106,952|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+ATLANTIC.GRP|    236|    47,432|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+ATLANTIS.GRP|    260|    71,484|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BURYCITY.GRP|    295|   152,600|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+CASTLE.GRP  |    370|    86,740|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+DELIM.GRP   |    413|    73,868|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EARTH.GRP   |    450|    54,424|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+ED.GRP      |    477|    50,408|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+FAREN.GRP   |    502|    72,348|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+FIELD1.GRP  |    538|    71,964|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+FIELD2.GRP  |    574|    75,340|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+JUPITER.GRP |    611|    62,420|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+LAMU.GRP    |    642|   131,400|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MARS.GRP    |    707|    85,972|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MERCURY.GRP |    749|    68,900|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MOON.GRP    |    783|    52,568|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MUPALACE.GRP|    809|   120,924|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MUSEUM.GRP  |    869|    98,540|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+NEPTUNE.GRP |    918|    94,932|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+OP.GRP      |    965|    61,156|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+OP2.GRP     |    995|     6,984|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+PLUTE.GRP   |    999|    90,652|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+ROOM.GRP    |  1,044|    39,236|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+RUIN.GRP    |  1,064|    39,504|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+SATURN.GRP  |  1,084|    33,744|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+SMPSOUND.GRP|  1,101|   399,152|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+URANUS.GRP  |  1,296|    70,160|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+VENUS.GRP   |  1,331|   111,944|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+VOLCANO.GRP |  1,386|    71,792|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+ED.X        |  1,422|     4,494|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+EDV.X       |  1,425|   193,470|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+MSYS.X      |  1,520|    61,806|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+MSYSDAT.GRP |  1,551|    90,572|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+OP.X        |  1,596|     5,388|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+OP2.X       |  1,599|     4,632|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+TITLE.X     |  1,602|    27,006|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+VISUAL.X    |  1,616|   159,732|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+AUTOEXEC.X  |  1,694|    13,772|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+LD.X        |  1,701|    19,686|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+AB_DATA.GRP |  1,711|     5,740|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BK_DATA.GRP |  1,714|    64,672|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BP_DATA.GRP |  1,746|     8,160|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EB_DATA.GRP |  1,750|   192,184|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+IB_DATA.GRP |  1,844|    17,936|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+MB_DATA.GRP |  1,853|   367,240|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BOOK.X      |  2,033|    12,592|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+EV.X        |  2,040|   180,802|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+EVO_DATA.BIN|  2,129|     8,440|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+EVMM_04.GRP |  2,134|    68,116|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EVMM_03.GRP |  2,168|    68,648|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EVMM_02.GRP |  2,202|    67,988|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EVMM_01.GRP |  2,236|    67,348|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+EVMM_00.GRP |  2,269|    70,056|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA11.GRP|  2,304|    14,800|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA10.GRP|  2,312|    19,824|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA09.GRP|  2,322|    21,372|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA08.GRP|  2,333|    14,228|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA07.GRP|  2,340|    26,492|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA06.GRP|  2,353|    25,096|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA05.GRP|  2,366|    12,036|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA04.GRP|  2,372|    13,636|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA03.GRP|  2,379|     7,608|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA02.GRP|  2,383|    11,216|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA01.GRP|  2,389|     6,340|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BMDATA00.GRP|  2,393|     7,564|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+INITDATA.BIN|  2,397|    21,892|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+MM_DATA.BIN |  2,408|       992|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+MMM_DATA.BIN|  2,409|   133,120|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+MMS_DATA.BIN|  2,474|   532,480|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+BATTLE.X    |  2,734|   188,392|X File                 | 10/14/1994 9:14:55 AM|    0:00|F
+BAT_DATA.BIN|  2,826|    20,756|BIN File               | 10/14/1994 9:14:55 AM|    0:00|F
+EMM_DATA.GRP|  2,837|   165,832|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BAT_PCM.GRP |  2,918|   270,180|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+BAT_BACK.GRP|  3,050|     8,760|Microsoft Program Group| 10/14/1994 9:14:55 AM|    0:00|F
+
+ 6,128,623 bytes in 0 folders and 78 files
+
+
+MMMMDATA.BIN   319,496 bytes
+
+no apparent text blocks
+
+ANCIENT.GRP   106,952 bytes
+
+(0x10FB8 - 0x118E5)
+(0x15AC2 - 0x15D5D)
+
+ATLANTIC.GRP    47,432 bytes
+
+(0x 4410 - 0x 468C)
+(0x 7F46 - 0x 8821)
+
+ATLANTIS.GRP    71,484 bytes
+
+(0x 9DDC - 0x A084)
+(0x DA42 - 0x E2D2)
+
+BURYCITY.GRP   152,600 bytes
+
+(0x1E046 - 0x1E9D9)
+(0x21A40 - 0x22075)
+
+CASTLE.GRP    86,740 bytes
+
+(0x C594 - 0x D3DE)
+(0x10AA6 - 0x1109B)
+
+DELIM.GRP    73,868 bytes
+
+(0x D808 - 0x DD64)
+
+EARTH.GRP    54,424 bytes
+
+(0x 7C4A - 0x 800E)
+
+ED.GRP       50,408 bytes
+
+no apparent text blocks
+
+FAREN.GRP    72,348 bytes
+
+(0x 8BE8 - 0x 9469)
+(0x D9AC - 0x DD10)
+
+FIELD1.GRP    71,964 bytes
+
+(0x CA78 - 0x D2A1)
+
+FIELD2.GRP    75,340 bytes
+
+(0x ACD8 - 0x B318)
+
+JUPITER.GRP    62,420 bytes
+
+(0x 649B - 0x 68F3)
+(0x AA8E - 0x B11A)
+
+LAMU.GRP   131,400 bytes
+
+(0x16E5C - 0x17043)
+(0x19C80 - 0x1A0FA)
+(0x1CC5E - 0x1CFDD)
+
+MARS.GRP    85,972 bytes
+
+(0x EA92 - 0x F04B)
+
+MERCURY.GRP    68,900 bytes
+
+(0x 93F2 - 0x 98C7)
+(0x B268 - 0x B33C)
+
+MOON.GRP    52,568 bytes
+
+(0x 98F2 - 0x 9B4B)
+(0x A41C - 0x A5DB)
+
+MUPALACE.GRP   120,924 bytes
+
+(0x15173 - 0x15889)
+(0x15983 - 0x15A69)
+(0x1810B - 0x18BAF)
+
+MUSEUM.GRP    98,540 bytes
+
+(0x11704 - 0x121B4)
+
+NEPTUNE.GRP    94,932 bytes
+
+(0x D9E4 - 0x DFE2)
+(0x130C8 - 0x1346D)
+
+OP.GRP       61,156 bytes
+
+no apparent text blocks
+
+OP2.GRP        6,984 bytes
+
+no apparent text blocks
+
+PLUTE.GRP    90,652 bytes
+
+(0x DE42 - 0x E5C0)
+(0x10698 - 0x10922)
+
+ROOM.GRP    39,236 bytes
+
+(0x 5DB6 - 0x 6AF4)
+
+RUIN.GRP    39,504 bytes
+
+(0x 4DAA - 0x 4F4D)
+(0x 5938 - 0x 5A89)
+(0x 66BC - 0x 6790)
+(0x 6FB4 - 0x 7081)
+
+SATURN.GRP    33,744 bytes
+
+(0x 558C - 0x 5AF5)
+
+SMPSOUND.GRP   399,152 bytes
+
+no apparent text blocks
+
+URANUS.GRP    70,160 bytes
+
+(0x 9F80 - 0x A096)
+(0x DE02 - 0x E464)
+
+VENUS.GRP   111,944 bytes
+
+(0x FCC8 - 0x FD19)
+(0x10F64 - 0x1120A)
+(0x155E4 - 0x1599A)
+(0x16EC4 - 0x17253)
+
+VOLCANO.GRP    71,792 bytes
+
+(0x B7F9 - 0x C937)
+
+ED.X        4,494 bytes
+
+no apparent text blocks
+
+EDV.X      193,470 bytes
+
+no apparent text blocks
+
+MSYS.X       61,806 bytes
+
+no apparent text blocks
+
+MSYSDAT.GRP    90,572 bytes
+
+no apparent text blocks
+
+OP.X        5,388 bytes
+
+no apparent text blocks
+
+OP2.X        4,632 bytes
+
+no apparent text blocks
+
+TITLE.X       27,006 bytes
+
+no apparent text blocks
+
+VISUAL.X   159,732 bytes
+
+no apparent text blocks
+
+AUTOEXEC.X    13,772 bytes
+
+no apparent text blocks
+
+LD.X       19,686 bytes
+
+no apparent text blocks
+
+AB_DATA.GRP     5,740 bytes
+
+no apparent text blocks
+
+BK_DATA.GRP    64,672 bytes
+
+no apparent text blocks
+
+BP_DATA.GRP     8,160 bytes
+
+no apparent text blocks
+
+EB_DATA.GRP   192,184 bytes
+
+no apparent text blocks
+
+IB_DATA.GRP    17,936 bytes
+
+no apparent text blocks
+
+MB_DATA.GRP   367,420 bytes
+
+no apparent text blocks
+
+BOOK.X       12,592 bytes
+
+no apparent text blocks
+
+EV.X      180,802 bytes
+
+no apparent text blocks
+
+EVO_DATA.BIN     8,440 bytes
+
+no apparent text blocks
+
+EVMM_04.GRP    68,116 bytes
+
+no apparent text blocks
+
+EVMM_03.GRP    68,648 bytes
+
+no apparent text blocks
+
+EVMM_02.GRP    67,988 bytes
+
+no apparent text blocks
+
+EVMM_01.GRP    67,348 bytes
+
+no apparent text blocks
+
+EVMM_00.GRP    70,056 bytes
+
+no apparent text blocks
+
+BMDATA11.GRP    14,800 bytes
+
+no apparent text blocks
+
+BMDATA10.GRP    19,824 bytes
+
+no apparent text blocks
+
+BMDATA09.GRP    21,372 bytes
+
+no apparent text blocks
+
+BMDATA08.GRP    14,228 bytes
+
+no apparent text blocks
+
+BMDATA07.GRP    26,492 bytes
+
+no apparent text blocks
+
+BMDATA06.GRP    25,096 bytes
+
+no apparent text blocks
+
+BMDATA05.GRP    12,036 bytes
+
+no apparent text blocks
+
+BMDATA04.GRP    13,636 bytes
+
+no apparent text blocks
+
+BMDATA03.GRP     7,608 bytes
+
+no apparent text blocks
+
+BMDATA02.GRP    11,216 bytes
+
+no apparent text blocks
+
+BMDATA01.GRP     6,340 bytes
+
+no apparent text blocks
+
+BMDATA00.GRP     7,564 bytes
+
+no apparent text blocks
+
+INITDATA.BIN   133,120 bytes
+
+(0x 4048 - 0x 4934)
+(0x 4B18 - 0x 51E0)
+(0x 5222 - 0x 5314)
+(0x 533D - 0x 53E5)
+(0x 5436 - 0x 557B)
+
+MM_DATA.BIN       992 bytes
+
+no apparent text blocks
+
+MMM_DATA.BIN   113,120 bytes
+
+no apparent text blocks
+
+MMS_DATA.BIN   532,480 bytes
+
+no apparent text blocks
+
+BATTLE.X   188,392 bytes
+
+unsure about text blocks
+
+BAT_DATA.BIN    20,756 bytes
+
+(0x 44E8 - 0x 4CEF)
+
+EMM_DATA.GRP   165,832 bytes
+
+no apparent text blocks
+
+BAT_PCM.GRP   270,180 bytes
+
+no apparent text blocks
+
+BAT_BACK.GRP     8,760 bytes
+
+no apparent text blocks
