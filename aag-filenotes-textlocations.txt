@@ -410,3 +410,10 @@ no apparent text blocks
 BAT_BACK.GRP     8,760 bytes
 
 no apparent text blocks
+
+According to CDMage, there are four different types of files used in the game's file structure...
+
+.TXT
+.GRP
+.X
+.BIN
