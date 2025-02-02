@@ -373,11 +373,11 @@ no apparent text blocks
 
 INITDATA.BIN   133,120 bytes
 
-(0x 4048 - 0x 4934)
-(0x 4B18 - 0x 51E0)
-(0x 5222 - 0x 5314)
-(0x 533D - 0x 53E5)
-(0x 5436 - 0x 557B)
+(0x 4048 - 0x 4935)
+(0x 4B18 - 0x 51E1)
+(0x 5222 - 0x 5315)
+(0x 533D - 0x 53E6)
+(0x 5436 - 0x 557C)
 
 MM_DATA.BIN       992 bytes
 
@@ -410,10 +410,3 @@ no apparent text blocks
 BAT_BACK.GRP     8,760 bytes
 
 no apparent text blocks
-
-According to CDMage, there are four different types of files used in the game's file structure...
-
-.TXT
-.GRP
-.X
-.BIN
