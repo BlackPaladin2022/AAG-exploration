@@ -1,0 +1,25 @@
+//GAME NAME:		Final Fantasy 1 (NES)
+
+//BLOCK #000 NAME:		Dialogue Block (RAW)
+//Block Range: $FCC8 - $FD19
+
+「『[スタッフ]』[LN]
+_を手にいれた」[ED]
+
+「『[ウォーターロール]』[LN]
+_を手にいれた」[BR]
+
+[ED]
+
+「『[ファナティック]』[LN]
+_を手にいれた」[BR]
+
+[ED]
+
+「『[エクストラヒール]』[LN]
+_を手にいれた」[BR]
+
+[ED]
+
+「何も入ってなかった」[ED]
+
