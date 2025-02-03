@@ -1,0 +1,49 @@
+Using YY-CHR, I've looked at the files with the *.X extension.  This is what I've discovered.
+
+AUTOEXEC.X
+
+There appears to be kanji character graphics located here.  I haven've figured out where they're used in as of this typing.
+
+BATTLE.X
+
+There appears to be letters visible here as well.  They can only be visible when using the 4BPP MSX codec in YY-CHR, they're especially visible when using a 1,2V pattern as well.  Also, by usng 1BPP 8x8 codec, the letters that's displayed outside of battle appears visible.  However, they're arranged in an unusual pattern.  First square is the lower left, second square is the upper left, third square is the lower right and right square is the upper right.
+
+BOOK.X
+
+No apparent graphics
+
+ED.X
+
+No apparent graphics
+
+EDV.X
+
+Uncompressed graphics are also stored in this file, visible while using the 4BPP MSX codec in YY-CHR.  Judging by the title name, the graphics stored here could be from the game's ending.  Having not seen how this game ends, I cannot be certain.  This is only speculation at this point.
+
+EV.X
+
+Uncompressed graphics appear to be stored here, also visible using the 4BPP MSX codec on YY-CHR.  I'm unsure what graphics are stored in this file at this point.  It could be the same graphics that's shown at the beginning with Japanese shown in the foreground (prior to the title screen) but that's speculation at this point.
+
+LD.X
+
+In this file, there are graphics visible but only by using the 1BPP 8x* codec.  The graphics is an font graphics that's 8 pixels long and 16 pixels high.  This contains the twenty-six English letters, all uppercase, numbers, punctuation as well as hiragana, katakana, and kanji characters.  Presumably, this font appears to be used in menus and battle menu text.
+
+MSYS.X
+
+No apparent graphics
+
+OP.X
+
+No apparent graphics
+
+OP2.X
+
+No apparent graphics
+
+TITLE.X
+
+Upon using 4BPP MSX codec on this file, the title screen graphics appear to be stored here.  The graphics in this file are also uncompressed.
+
+VISUAL.X
+
+Uncompressed graphics are also visible here using the 4BPP MSX codec.  These appear to contain the graphics that plays prior to the title screen.  The Japanese text that appears during this scene doesn't appear to be stored here.
