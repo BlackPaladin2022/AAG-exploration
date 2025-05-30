@@ -1,0 +1,40 @@
+#GAME NAME:		Final Fantasy 1 (NES)
+
+#BLOCK NAME:		Dialogue Block (RAW)
+#TYPE:			NORMAL
+#METHOD:		RAW
+#SCRIPT START:		$15173
+#SCRIPT STOP:		$15889
+#TABLE:			eclipse04.tbl
+#COMMENTS:		No		//start first line with //
+#END BLOCK				//remainder of comment placement
+					//is handled by control codes
+
+
+#GAME NAME:		Final Fantasy 1 (NES)
+
+#BLOCK NAME:		Dialogue Block (RAW)
+#TYPE:			NORMAL
+#METHOD:		RAW
+#SCRIPT START:		$15983
+#SCRIPT STOP:		$15A69
+#TABLE:			eclipse04.tbl
+#COMMENTS:		No		//start first line with //
+#END BLOCK				//remainder of comment placement
+					//is handled by control codes
+
+
+#GAME NAME:		Final Fantasy 1 (NES)
+
+#BLOCK NAME:		Dialogue Block (RAW)
+#TYPE:			NORMAL
+#METHOD:		RAW
+#SCRIPT START:		$1810B
+#SCRIPT STOP:		$18BAF
+#TABLE:			eclipse04.tbl
+#COMMENTS:		No		//start first line with //
+#END BLOCK				//remainder of comment placement
+					//is handled by control codes
+(0x15173 - 0x15889)
+(0x15983 - 0x15A69)
+(0x1810B - 0x18BAF)

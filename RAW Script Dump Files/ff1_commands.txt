@@ -1,0 +1,25 @@
+#GAME NAME:		Final Fantasy 1 (NES)
+
+#BLOCK NAME:		Dialogue Block (RAW)
+#TYPE:			NORMAL
+#METHOD:		RAW
+#SCRIPT START:		$28210
+#SCRIPT STOP:		$2B496
+#TABLE:			ff1_raw.tbl
+#COMMENTS:		Yes		//start first line with //
+#END BLOCK				//remainder of comment placement
+					//is handled by control codes
+
+#BLOCK NAME:		Dialogue Block (POINTER_RELATIVE)
+#TYPE:			NORMAL
+#METHOD:		POINTER_RELATIVE
+#POINTER ENDIAN:	LITTLE
+#POINTER TABLE START:	$28010
+#POINTER TABLE STOP:	$28210
+#POINTER SIZE:		$02
+#POINTER SPACE:		$00
+#ATLAS PTRS:		Yes
+#BASE POINTER:		$20010		//add $20010 to each pointer to get
+#TABLE:			ff1_ptr.tbl		//the string address
+#COMMENTS:		Yes
+#END BLOCK
