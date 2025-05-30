@@ -24,6 +24,10 @@ ABS.TXT, BIB.TXT, and CPY.TXT
 
 These text files originated inside the game's file structure.  They appear to be easter eggs left by the game's developers for whatever reason.
 
+RAW Script Dump Files
+
+This is a directory that contains Cartographer-compatible command files, the required table file, and the Cartographer program used to extract the RAW script dumps from the files within the first track of the ISO.  As the whereabouts of the text blocks' text pointer table files are undiscovered at this point, I could only dump the text in RAW format in of POINTER_RELATIVE.  The command files' names correspond to the filed located in the game's first track.
+
 (SCD) After Armageddon Gaiden - Maju Toushouden Eclipse RAW
 
-This is a directory containing raw script dumps of the game's text in text files.  (*.TXT)  These script files are not compatible with Atlas, and the text was dumped using the RAW option.  This was the only way I can get the game's script in text files without tinkering with the game's text pointer table system (if any) whose function hasn't been completely deciphered at the time of this update.  All script files were dumped from the smaller files in the game's file system... all of which were from .GRP files... except for text located in INITDATA.BIN and BAT_DATA.BIN.  The text strings located in those files appear to be names of items, locations, equipment, monsters, etc. (Again, this is speculation.)
+This is a directory that contains raw script dumps of the game's text in text files.  (*.TXT)  These script files are not compatible with Atlas, and the text was dumped using the RAW option.  This was the only way I can get the game's script in text files without tinkering with the game's text pointer table system (if any) whose function hasn't been completely deciphered at the time of this update.  All script files were dumped from the smaller files in the game's file system... all of which were from .GRP files... except for text located in INITDATA.BIN and BAT_DATA.BIN.  The text strings located in those files appear to be names of items, locations, equipment, monsters, etc. (Again, this is speculation.)
