@@ -1,0 +1,221 @@
+aag-filenotes-graphicsinGRP.txt
+
+AB-DATA.GRP
+
+No apparent graphics located in this file
+
+ANCIENT.GRP
+
+A portrait and several graphical tiles are also visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+ATLANTIC.GRP
+
+A portrait is visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+BAT_BACK.GRP
+
+No apparent graphics located in this file
+
+BAT_PCM.GRP
+
+No apparent graphics located in this file
+
+BK_DATA.GRP
+
+No apparent graphics located in this file
+
+BMDATA00.GRP
+
+No apparent graphics located in this file
+
+BMDATA01.GRP
+
+No apparent graphics located in this file
+
+BMDATA02.GRP
+
+No apparent graphics located in this file
+
+BMDATA03.GRP
+
+No apparent graphics located in this file
+
+BMDATA04.GRP
+
+No apparent graphics located in this file
+
+BMDATA05.GRP
+
+No apparent graphics located in this file
+
+BMDATA06.GRP
+
+No apparent graphics located in this file
+
+BMDATA07.GRP
+
+No apparent graphics located in this file
+
+BMDATA08.GRP
+
+No apparent graphics located in this file
+
+BMDATA09.GRP
+
+No apparent graphics located in this file
+
+BMDATA10.GRP
+
+No apparent graphics located in this file
+
+BMDATA11.GRP
+
+No apparent graphics located in this file
+
+BP_DATA.GRP
+
+No apparent graphics located in this file
+
+BURYCITY.GRP
+
+A portrait and several graphical tiles are also visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+CASTLE.GRP
+
+A portrait is visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+DELIM.GRP
+
+A portrait and several graphical tiles are also visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+EARTH.GRP
+
+A portrait is visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+EB_DATA.GRP
+
+No apparent graphics located in this file
+
+ED.GRP
+
+No apparent graphics located in this file
+
+EMM_DATA.GRP
+
+No apparent graphics located in this file
+
+EVMM_00.GRP
+
+No apparent graphics located in this file
+
+EVMM_01.GRP
+
+No apparent graphics located in this file
+
+EVMM_02.GRP
+
+No apparent graphics located in this file
+
+EVMM_03.GRP
+
+No apparent graphics located in this file
+
+EVMM_04.GRP
+
+No apparent graphics located in this file
+
+FAREN.GRP
+
+There appears to be tiles that could make up graphics, but I haven't been able to identify it yet.  Could be a red herring...
+
+FIELD1.GRP
+
+A portrait is visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+FIELD2.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+IB_DATA.GRP
+
+No apparent graphics located in this file
+
+JUPITER.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+LAMU.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+MARS.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+MB_DATA.GRP
+
+No apparent graphics located in this file
+
+MERCURY.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+MOON.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+MSYSDAT.GRP
+
+No apparent graphics located in this file
+
+MUPALACE.GRP
+
+Four portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+MUSEUM.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+NEPTUNE.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+OP.GRP
+
+No apparent graphics located in this file
+
+OP2.GRP
+
+No apparent graphics located in this file
+
+PLUTE.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+ROOM.GRP
+
+Three portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+RUIN.GRP
+
+A portrait and several graphical tiles are also visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+SATURN.GRP
+
+Four portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+SMPSOUND.GRP
+
+No apparent graphics located in this file
+
+URANUS.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+VENUS.GRP
+
+Two portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
+
+VOLCANO.GRP
+
+Several portraits are visible immediately in this file.  Format must be set to 4BPP MSX (in YY-CHR) and pattern must be set to to 1,4H or 1,4V.
