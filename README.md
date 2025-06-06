@@ -26,7 +26,7 @@ These text files originated inside the game's file structure.  They appear to be
 
 RAW Script Dump Files
 
-This is a directory that contains Cartographer-compatible command files, the required table file, and the Cartographer program used to extract the RAW script dumps from the files within the first track of the ISO.  As the whereabouts of the text blocks' text pointer table files are undiscovered at this point, I could only dump the text in RAW format in of POINTER_RELATIVE.  The command files' names correspond to the filed located in the game's first track.
+This is a directory that contains Cartographer-compatible command files, the required table file, and the Cartographer program used to extract the RAW script dumps from the files within the first track of the ISO.  As the whereabouts of the text blocks' text pointer table files are undiscovered at this point, I could only dump the text in RAW format instead of POINTER_RELATIVE.  The command files' names correspond to the filed located in the game's first track.
 
 (SCD) After Armageddon Gaiden - Maju Toushouden Eclipse RAW
 
